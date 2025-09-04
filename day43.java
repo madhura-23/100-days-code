@@ -1,4 +1,5 @@
 // Definition for singly-linked list.
+public class day43{
 class ListNode {
     int val;
     ListNode next;
@@ -16,4 +17,5 @@ class Solution {
         slow.next = slow.next.next;
         return head;
     }
+}
 }
