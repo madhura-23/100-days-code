@@ -1,4 +1,4 @@
-public class Day4 {
+public class day4 {
     public static void main(String[] args) {
         int[] arr = {12, 3, 45, 7, 89, 1, 23};
 
