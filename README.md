@@ -1,47 +1,43 @@
-# 💯 100 Days of Code – Java & DSA Challenge
+# 🚀 100 Days of Code – Java DSA Journey  
 
-Hi! I’m Madhura and this repo is my commitment to grow in Data Structures, Algorithms, and Software Development by solving and learning **1 problem every day for 100 days** 🚀
-
----
-
-## 📅 Progress Tracker
-
-| Day | Topic | Status | Link |
-|-----|--------|--------|------|
-| 1 | Selection Sort | ✅ Done | [Day-1](./Day-1) |
-| 2 | Insertion Sort | 🔜 Coming | [Day-2](./Day-2) |
-| ... | ... | ... | ... |
+This repository documents my **100 Days of Code challenge** where I solve **Data Structures & Algorithms (DSA)** problems daily in **Java**.  
+The goal is to build strong problem-solving skills, consistency, and prepare for coding interviews.  
 
 ---
 
-## 🔥 Topics Covered
+## 📌 Progress Tracker  
 
-- Arrays, Strings, Recursion
-- Linked Lists, Stacks & Queues
-- Trees, Graphs, DP
-- OOPs in Java
-- SQL & DBMS
-- Problem-Solving Logic
-- System Design (later)
+✅ **Day 1** – Implemented Selection Sort  
+✅ **Day 2** – Implemented Insertion Sort  
+✅ **Day 3** – Program to Find Max and Min in Array  
+✅ **Day 4** – Lowest Common Ancestor (LCA) in Binary Tree  
+... *(more days coming!)*  
 
 ---
 
-## 🛠 How to Use
+## 🛠️ How to Run the Code  
 
-- Browse folders `Day-X` for code + explanations
-- Each folder has:
-  - `solution.java` → Java code
-  - `README.md` → Topic & explanation
-  - `notes.md` → Key logic/approach
-
----
-
-## 📌 Author
-
-Made with 💻 by [Madhura Bhat](https://github.com/93224/100-days-code)
-
----
-⭐ Don’t forget to star this repo if you're on the same journey!
-)
+1. Clone this repository  
+   ```bash
+   git clone https://github.com/madhura-23/100-days-code.git
+   cd 100-days-code
+   
+📚 Topics Covered
+1.Arrays
+2.Sorting (Selection, Insertion, Bubble…)
+3.Recursion
+4.Trees (Binary Tree, BST, LCA, Traversals)
+5.Searching
+6.Strings
+7.Dynamic Programming (coming soon 🚀)
 
 
+🏆 Goals
+✅ Build coding discipline with daily practice
+✅ Strengthen Java + DSA concepts
+
+📊 GitHub Stats
+📬 Connect With Me
+🌐 GitHub Profile:https://github.com/madhura-23
+💼 LinkedIn:https://www.linkedin.com/in/madhura-bhat-bab52b292/
+✉️ Reach me at:madhurabhat2310@gmail.com
