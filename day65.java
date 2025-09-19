@@ -1,3 +1,6 @@
+import java.util.LinkedList;
+import java.util.Queue;
+
 public class day65 {
     class Solution {
     public int nearestExit(char[][] maze, int[] entrance) {
