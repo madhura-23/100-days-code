@@ -1,3 +1,5 @@
+import java.util.Arrays;
+
 public class day68 {
     class Solution {
     public int findMinArrowShots(int[][] segments) {
