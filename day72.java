@@ -1,3 +1,5 @@
+import java.util.Arrays;
+
 public class day72{
     class Solution {
     public int triangleNumber(int[] nums) {
