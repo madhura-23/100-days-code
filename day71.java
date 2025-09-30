@@ -1,3 +1,6 @@
+import java.util.HashMap;
+import java.util.Map;
+
 public class day71{
     class Solution {
     public String fractionToDecimal(int numerator, int denominator) {
