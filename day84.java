@@ -1,3 +1,5 @@
+import java.util.PriorityQueue;
+
 public class day84 {
     class Solution {
     public long maxScore(int[] speed, int[] efficiency, int k) {
