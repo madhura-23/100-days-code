@@ -1,4 +1,5 @@
 # 💯 100 Days of Java Code — Completed 🚀
+![100 Days of Java Code - Completed](banner.png)
 
 I successfully completed my **#100DaysOfCode** challenge focused entirely on **Java programming** — from fundamentals to advanced problem-solving.  
 This repository is a reflection of my consistency, growth, and the passion I’ve built for coding over these 100 days. ☕💻
