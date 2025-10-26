@@ -70,7 +70,7 @@ This challenge taught me the value of **discipline over motivation**, and how ev
 ## 🌟 What’s Next
 - Continue solving advanced DSA problems in Java.  
 - Build 3 major projects using **Java + Spring Boot + AWS**.  
-- Prepare for **Google / Amazon** placements 👩‍💻  
+
 
 ---
 
