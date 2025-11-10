@@ -94,5 +94,5 @@ If you’re starting your own **100 Days of Code**, trust the process — your f
 ⭐ *Star this repo if my journey inspired you to start yours!*  
 
 ---
-
+Lets connect and make this work more memorable.
 ### 👩‍💻 Author: [@madhura-23](https://github.com/madhura-23)
