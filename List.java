@@ -1,6 +1,6 @@
 
 public class List<T> {
-
+class solution{
     public int size() {
         // TODO Auto-generated method stub
         throw new UnsupportedOperationException("Unimplemented method 'size'");
@@ -17,3 +17,5 @@ public class List<T> {
     }
 
 }
+}
+
