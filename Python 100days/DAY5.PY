@@ -1,11 +1,20 @@
-class Solution:
-    def reverse(self, x: int) -> int:
-        # Step 1: Handle the sign and reverse the digits using string slicing
-        sign = -1 if x < 0 else 1
-        res = int(str(abs(x))[::-1]) * sign
-        
-        # Step 2: Check for 32-bit integer overflow
-        if res < -2**31 or res > 2**31 - 1:
-            return 0
-            
-        return res
+import random
+
+print("🎮 Welcome to the Number Guessing Game!")
+
+# Generate random number between 1 and 10
+secret_number = random.randint(1, 10)
+
+attempts = 0
+
+while True:
+    guess = int(input("Enter a number between 1 and 10: "))
+    attempts += 1
+
+    if guess < secret_number:
+        print("Too low! Try again.")
+    elif guess > secret_number:
+        print("Too high! Try again.")
+    else:
+        print(f"🎉 Correct! You guessed it in {attempts} attempts.")
+        break
