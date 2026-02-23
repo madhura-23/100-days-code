@@ -1,3 +1,6 @@
+from ast import List
+
+
 class Solution:
     def maxProfit(self, prices: List[int]) -> int:
         min_price = prices[0]
