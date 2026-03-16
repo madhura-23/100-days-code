@@ -13,7 +13,7 @@ A personal journey through the **#100DaysOfCode** challenge — one Python scrip
 
 The **100 Days of Code** challenge is a commitment to code for at least an hour every day for 100 days. This folder contains all my Python work — exercises, mini-projects, and experiments — organized day by day.
 
-- 📅 **Start Date:** _(add your start date)_
+- 📅 **Start Date:** _Since January 2026
 - 🎯 **Goal:** Build consistent coding habits and master Python
 - 📚 **Inspired by:** [100 Days of Code: The Complete Python Pro Bootcamp](https://www.udemy.com/course/100-days-of-code/)
 
